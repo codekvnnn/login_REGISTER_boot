@@ -1,0 +1,30 @@
+.container {
+    margin: 5% auto;
+    padding: 5%;
+    display: block;
+    background-color: white;
+}
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.main {
+    width: 70%;
+    margin: 0 auto;
+    color: rgb(58, 58, 58);
+}
+.error {
+    color: rgb(20, 113, 219);
+}
+body {
+    background-color: rgb(173, 137, 104);
+}
+h1 {
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
+.btn {
+    margin-top: 10px;
+}
